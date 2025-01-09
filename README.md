@@ -12,9 +12,16 @@ An interactive Power BI dashboard that analyzes the performance of hospital emer
 
 # Principal findings from this dataset:
 1- Average waiting time is 35 min.
+
 2- Average patients age is 40 years.
+
 3- 5 out of 10 is the average patient satisfaction rating.
+
 4- The total number of patients by race is lower for native Americans and higher for whites.
+
 5- Inpatients and outpatients by departments is higher in general practice and low in Renal.
+
 6- Male Patients is slightly higher than female.
+
+
 
