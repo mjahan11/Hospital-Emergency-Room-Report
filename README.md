@@ -6,4 +6,7 @@ An interactive Power BI dashboard that analyzes the performance of hospital emer
 
 - <a href="https://data.world/search?q=data+sets&scope=_all">Dataset</a>
 
--	<a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=pizza">Maven Analytics</a>
+# Dashboard View
+  ![image](https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report%20.jpg)
+   <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report.pbix ">Click to Download pbix file </a>
+
