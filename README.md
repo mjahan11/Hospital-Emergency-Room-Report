@@ -5,10 +5,9 @@ An interactive Power BI dashboard that analyzes the performance of hospital emer
 # Dataset
 - <a href="https://github.com/mjahan11/Hospital-Emergency-Room-Report/blob/main/Hospital%20ER.csv">Datasets</a>
 
-- <a href="https://data.world/search?q=data+sets&scope=_all">Dataset</a>
-
 # Dashboard View
 ![image](https://github.com/user-attachments/assets/e75ff7f6-3bf6-45c0-8d49-7b0d1becdda8)
+   <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report.pbix ">Click to Download pbix file </a>
    <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report.pbix ">Click to Download pbix file </a>
 
 # Principal findings from this dataset:
